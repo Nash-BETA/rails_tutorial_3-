@@ -1,15 +1,15 @@
-current directory: /Users/nns/workspace/tutorial2/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
-/Users/nns/.rbenv/versions/2.5.5/bin/ruby -r ./siteconf20190704-15274-8zajam.rb extconf.rb
+current directory: /Users/nns/Documents/GitHub/rails_tutorial_3-/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/nns/.rbenv/versions/2.5.5/bin/ruby -r ./siteconf20190716-54846-1tjhylu.rb extconf.rb
 creating Makefile
 
-current directory: /Users/nns/workspace/tutorial2/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+current directory: /Users/nns/Documents/GitHub/rails_tutorial_3-/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
 make "DESTDIR=" clean
 
-current directory: /Users/nns/workspace/tutorial2/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+current directory: /Users/nns/Documents/GitHub/rails_tutorial_3-/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
 make "DESTDIR="
 compiling cruby.c
 linking shared-object skiptrace/cruby.bundle
 
-current directory: /Users/nns/workspace/tutorial2/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+current directory: /Users/nns/Documents/GitHub/rails_tutorial_3-/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190704-15274-1x5p51v/skiptrace
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190716-54846-9q6j38/skiptrace
